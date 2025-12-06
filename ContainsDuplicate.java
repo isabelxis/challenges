@@ -35,7 +35,7 @@ public class ContainsDuplicate {
         System.out.println(check.nextDuplicate(nums1)); // Output: true
 
         int[] nums2 = {1,2,3,4};
-        System.out.println(check.nextDuplicate(nums2)); // Output: true
+        System.out.println(check.nextDuplicate(nums2)); // Output: false
 
     }
 
